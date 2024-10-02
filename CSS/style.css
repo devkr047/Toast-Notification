@@ -21,7 +21,7 @@ body {
     position: absolute;
     right: 0;
     bottom: 0;
-    margin: 10px;
+    margin-inline: 10px;
 }
 
 .notification {
