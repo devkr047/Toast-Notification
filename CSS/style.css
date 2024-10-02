@@ -49,6 +49,7 @@ body {
 @media screen and (max-width: 480px) {
     .noti-container{
         max-height: 30%;
+        margin-bottom: 20px;
     }
 }
 
