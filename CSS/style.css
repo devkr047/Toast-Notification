@@ -47,9 +47,20 @@ body {
 }
 
 @media screen and (max-width: 480px) {
-    .noti-container{
-        max-height: 30%;
-        margin-bottom: 20px;
+    .button{
+        position: absolute;
+        padding: 10px 10px;
+        font-size: 14px;
+        letter-spacing: normal;
+        top: 20px;
+        left: 10px;
+    }
+
+    .notification{
+        padding: 10px 10px;
+        font-size: 14px;
+        letter-spacing: normal;
+
     }
 }
 
